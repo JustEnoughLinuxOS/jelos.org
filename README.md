@@ -1,5 +1,8 @@
 # JELOS Wiki
 
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/JustEnoughLinuxOS/jelos.org/blob/master/README.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](https://github.com/JustEnoughLinuxOS/jelos.org/blob/master/README.zh.md)
+
 This is the repository for the JELOS Wiki ([created using MkDocs](https://www.mkdocs.org/))
 
 It uses the mkdocs-material theme for its layout & styling: [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
